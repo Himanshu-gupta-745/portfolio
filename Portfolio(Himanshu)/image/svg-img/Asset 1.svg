@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 162">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9258a4;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #9258a4;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-2" x="1" y="1" width="176" height="160" rx="53.5" ry="53.5"/>
+      <g>
+        <polygon class="cls-1" points="136.63 122.76 136.63 122.71 144.11 122.71 144.11 126.76 139.02 126.76 139.02 133.62 144.32 133.62 144.32 137.68 139.02 137.68 136.84 137.68 132.37 137.68 132.37 122.76 136.63 122.76"/>
+        <g>
+          <rect class="cls-1" x="72.6" y="81.76" width="32.01" height="6.65"/>
+          <rect class="cls-1" x="38.27" y="137.83" width="23.28" height="6.65"/>
+          <rect class="cls-1" x="65.12" y="75.93" width="7.48" height="5.82"/>
+          <rect class="cls-1" x="57.63" y="70.11" width="7.48" height="5.82"/>
+          <rect class="cls-1" x="104.61" y="75.93" width="7.48" height="5.82"/>
+          <rect class="cls-1" x="111.99" y="70.11" width="7.48" height="5.82"/>
+          <rect class="cls-1" x="106.8" y="88.56" width="32.01" height="6.65" transform="translate(30.91 214.69) rotate(-90)"/>
+          <rect class="cls-1" x="38.3" y="88.56" width="32.01" height="6.65" transform="translate(-37.58 146.2) rotate(-90)"/>
+          <rect class="cls-1" x="40.3" y="112.13" width="14.92" height="6.65" transform="translate(-67.7 163.22) rotate(-90)"/>
+          <rect class="cls-1" x="34.17" y="148.62" width="14.92" height="6.65" transform="translate(-110.32 193.57) rotate(-90)"/>
+          <g>
+            <rect class="cls-1" x="115.98" y="137.47" width="23.28" height="6.65"/>
+            <rect class="cls-1" x="128.48" y="148.25" width="14.92" height="6.65" transform="translate(-15.64 287.51) rotate(-90)"/>
+          </g>
+          <polygon class="cls-1" points="40.34 122.91 40.34 122.86 32.85 122.86 32.85 126.91 37.95 126.91 37.95 133.77 32.65 133.77 32.65 137.83 37.95 137.83 40.13 137.83 44.6 137.83 44.6 122.91 40.34 122.91"/>
+          <rect class="cls-1" x="65.35" y="116.71" width="14.92" height="6.65" transform="translate(-47.22 192.84) rotate(-90)"/>
+          <rect class="cls-1" x="97.57" y="116.71" width="14.92" height="6.65" transform="translate(-15 225.06) rotate(-90)"/>
+          <rect class="cls-1" x="121.79" y="112.03" width="14.92" height="6.65" transform="translate(13.89 244.6) rotate(-90)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
